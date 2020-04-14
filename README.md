@@ -22,15 +22,22 @@ The twilight zone! If the ghosts are pleased, contact is established and you can
 You can think about whatever you want, but the basic idea is a cool thing and the design is great.
 The project started like many projects. You start thinking to repair an old table that suffered away through wind and weather and a moment later you end up with the idea of creating something awesome.
 
+
+<img src="https://cloud.githubusercontent.com/assets/Twilight_casted.jpg" width="50%" height="50%">
+
+
 There are fantastic other ways to create an Ouija Board. A fantastic one and more or less a starter for this project is [Ouija Coffee Table](https://www.instructables.com/id/Ouija-Coffee-Table/ "Instructables: Ouija Coffee Table"). This idea is fantastic and I recommend you to check this out, too.
 
 Free your mind and let the creativity flow. There are plenty of ways out there to improve this project or do it different.
 One important point is, this project includes 3D print cause the board should have a more 3D effect. I provide all STL files. You can print 'em on your own 3D printer or you can ask someone with one. Another way could be to use a cutting plotter but the nice 3D effect is lost.
 Hope is lost? No! Explore and learn, do something new. Even if it is currently in the twilight.
 
+
+
+
 ## Twilight?
 According to Wikipedia: [Twilight](https://en.wikipedia.org/wiki/twilight "Wikipedia Twilight") *on Earth is the illumination of the lower atmosphere when the Sun itself is not directly visible because it is below the horizon. Twilight is produced by sunlight scattering in the upper atmosphere, illuminating the lower atmosphere so that Earth's surface is neither completely lit nor completely dark.*
-Furthermore, every project need a name thus Project Ouija Board is somehow lame the decision was made to call it Project:Twilight.  
+Furthermore, every project need a name thus Project Ouija Board is somehow lame the decision was made to call it Project:Twilight.
 How are we to judge decisions, eh?
 
 Come, join the journey and enter the twilight zone!
@@ -60,7 +67,7 @@ Liability is excluded
 
 This article stands as a muse to kick off your own creativity universe.
 Use protective gear like glasses, gloves and masks wherever needed.
-If you use a bunsen burner take extra care! This thing is hot, it is fire and fire can hurt you or you can set something on fire. Everything of this from hurting to set fire is not tolerable! Even the resin can start to burn have always a fire extinguisher near by!  
+If you use a bunsen burner take extra care! This thing is hot, it is fire and fire can hurt you or you can set something on fire. Everything of this from hurting to set fire is not tolerable! Even the resin can start to burn have always a fire extinguisher near by!
 
 I advice you strongly to read the instructions provided within your resin and hardener!
 While the resin hardens it can get quit hot. Don't cast and let it dry indoors cause of acrid fumes.
@@ -69,7 +76,7 @@ While the resin hardens it can get quit hot. Don't cast and let it dry indoors c
 
 `THERE IS NO WARRANTY FOR THE PROJECT, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND SECURITY IS WITH YOU. SHOULD THE PROJECT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.`
 
-IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.`
+`IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.`
 
 ---
 
@@ -83,8 +90,8 @@ We cast a basic layer of resin and did another one after the first layer reaches
 We fixed bubbles in the beginning with a Crème brûlée bunsen burner. But we have to admit a few things here...
 ... be careful since a this bunsen burner reaches high temperature you seal the surface quick and later air enclosures cannot reach the surface. Means at a certain stage you cannot get rid of those bubbles.
 ... maybe try a hot air gun instead of a bunsen burner
-... the resin can get on fire if you put to much heat on it, please be super careful!  
-... if you apply to much heat the surface may get yellow cause you burned it so be carful not to apply to much heat!  
+... the resin can get on fire if you put to much heat on it, please be super careful!
+... if you apply to much heat the surface may get yellow cause you burned it so be carful not to apply to much heat!
 ... do tests before! Do not start with such a big surface!
 * Glitter
 We put some glitter into the resin, works pretty well. You just need to know that 90 percent sinks down bottom.
@@ -92,20 +99,20 @@ We put some glitter into the resin, works pretty well. You just need to know tha
 Double, triple check the ratio between the resin and the hardener. Otherwise it will not dry and you loose all your work.
 * Resin temperature
 To dry the resin needs temps beyond 20° Celsius and under 80% humidity.
-* Autodesk Fusion360 Fonts  
+* Autodesk Fusion360 Fonts
 Fusion360 can handle *only* TTFs (True Type Fonts) on Microsoft Windows Systems. It displays all fonts imported already to your Windows OS. OTFs (Open Type Fonts) are not visible in the dropdown in Fusion360. But there are converters out in the internet where you can convert OTF to TTF. Not all work fine, but trust me it works.
 
 
 ## Software
 * Autodesk Fusion360
 * Ultimaker Cura Version 4.5
-* Font Hill House  
-This project uses the great font [Hill House](https://hicksdesign.co.uk/goodies "HICKS Design").  
+* Font Hill House
+This project uses the great font [Hill House](https://hicksdesign.co.uk/goodies "HICKS Design").
 According to the author: *it is free to use in every way, including embedding on websites with @font-face"*
 
 ## Hardware
 
-* Protective Gear  
+* Protective Gear
 FFP3 mask, Gloves, Glasses
 * 3D Printer Creality Ender-3 Pro
 * Wood stain
@@ -113,13 +120,13 @@ Used a dark brownish environmental friendly wood stain from a hardware store
 * Wood lacquer
 Used chalk paint, color "Pearl". It turned out more white than "pearl".
 * Grinding machine
-* Filament  
+* Filament
 * Filament: Sunlu PLA transparent red
 * Filament: Sunlu PLA+ black
 
 ## Instructions
-A word about "instructions" it is up to you and this is the way this project was done.  
-Again, be creative and think, thinking is sexy so put your mind to the stars.  
+A word about "instructions" it is up to you and this is the way this project was done.
+Again, be creative and think, thinking is sexy so put your mind to the stars.
 Read the "Lessons Learned" section again!
 
 | Steps | Description|
