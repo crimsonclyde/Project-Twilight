@@ -129,7 +129,7 @@ Again, be creative and think, thinking is sexy so put your mind to the stars.
 Read the "Lessons Learned" section again!
 
 | Steps | Description|
-|: -------------:|-------------|
+| -------------|-------------|
 | `Wood` | Get yourself some wood, think about size and if you want a disk shape or more square style, it is completely up to you |
 | `Wood stain` | Just by some wood stain and apply it to the wood. Since we wanted to secure the wood and have a shabby chick look in the end we applied it to both sides of the wood.  |
 | `Prepare for painting` | We need to get rid of some layers of the stain. Just to be sure that the next paint lasts on the surface. Just remove with a grinding machine as much that the brown is not entirely gone. Yes, only on the side the Ouija Board should be builded. |
