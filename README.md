@@ -23,8 +23,7 @@ You can think about whatever you want, but the basic idea is a cool thing and th
 The project started like many projects. You start thinking to repair an old table that suffered away through wind and weather and a moment later you end up with the idea of creating something awesome.
 
 
-<img src="https://cloud.githubusercontent.com/assets/Twilight_casted.jpg" width="50%" height="50%">
-
+![alt text](./github-pix/Twilight_casted.jpg "Project:Twilight")
 
 There are fantastic other ways to create an Ouija Board. A fantastic one and more or less a starter for this project is [Ouija Coffee Table](https://www.instructables.com/id/Ouija-Coffee-Table/ "Instructables: Ouija Coffee Table"). This idea is fantastic and I recommend you to check this out, too.
 
