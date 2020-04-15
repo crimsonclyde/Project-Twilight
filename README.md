@@ -60,15 +60,16 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 
 ## Disclaimer, protection & security notes (must read!)
-If you do not agree with the rules stop any actions. The author is not responsible for anything you do.
+If you do not agree with the rules stop any actions!\
+The author is and will not responsible for anything you do!\
 Protect yourself! Think what might go wrong and how to secure you, people around you and the environment. This is important! The author does not take responsibility if something goes wrong, you hurt yourself or you slip into twilight.
-Liability is excluded
+Liability is completely excluded!\
 
-This article stands as a muse to kick off your own creativity universe.
-Use protective gear like glasses, gloves and masks wherever needed.
-If you use a bunsen burner take extra care! This thing is hot, it is fire and fire can hurt you or you can set something on fire. Everything of this from hurting to set fire is not tolerable! Even the resin can start to burn have always a fire extinguisher near by!
+This article stands as a muse to kick off your own creativity universe.\
+Use protective gear like glasses, gloves and masks wherever needed.\
+If you use a bunsen burner take extra care! This thing is hot, it is fire and fire can hurt you or you can set something on fire. Everything of this from hurting to set fire is not tolerable! Even the resin can start to burn have always a fire extinguisher near by!\
 
-I advice you strongly to read the instructions provided within your resin and hardener!
+I advice you strongly to read the instructions provided within your resin and hardener!\
 While the resin hardens it can get quit hot. Don't cast and let it dry indoors cause of acrid fumes.
 
 **!! Think before you act !!**
@@ -81,49 +82,49 @@ While the resin hardens it can get quit hot. Don't cast and let it dry indoors c
 
 ## Lessons learned
 
-* Glue
+* Glue\
 Standard craft glue is not enough. The resin releases the adhesive fixation. Maybe try superglue instead of standard glue.
-* Casting
+* Casting\
 We cast a basic layer of resin and did another one after the first layer reaches a jelly state. This worked out nicely no layers visible.
-* Bubble Theorem
-We fixed bubbles in the beginning with a Crème brûlée bunsen burner. But we have to admit a few things here...
-... be careful since a this bunsen burner reaches high temperature you seal the surface quick and later air enclosures cannot reach the surface. Means at a certain stage you cannot get rid of those bubbles.
-... maybe try a hot air gun instead of a bunsen burner
-... the resin can get on fire if you put to much heat on it, please be super careful!
-... if you apply to much heat the surface may get yellow cause you burned it so be carful not to apply to much heat!
+* Bubble Theorem\
+We fixed bubbles in the beginning with a Crème brûlée bunsen burner. But we have to admit a few things here...\
+... be careful since a this bunsen burner reaches high temperature you seal the surface quick and later air enclosures cannot reach the surface.\ Means at a certain stage you cannot get rid of those bubbles.\
+... maybe try a hot air gun instead of a bunsen burner\
+... the resin can get on fire if you put to much heat on it, please be super careful!\
+... if you apply to much heat the surface may get yellow cause you burned it so be carful not to apply to much heat!\
 ... do tests before! Do not start with such a big surface!
-* Glitter
+* Glitter\
 We put some glitter into the resin, works pretty well. You just need to know that 90 percent sinks down bottom.
-* Resin ratio
+* Resin ratio\
 Double, triple check the ratio between the resin and the hardener. Otherwise it will not dry and you loose all your work.
-* Resin temperature
+* Resin temperature\
 To dry the resin needs temps beyond 20° Celsius and under 80% humidity.
-* Autodesk Fusion360 Fonts
+* Autodesk Fusion360 Fonts\
 Fusion360 can handle *only* TTFs (True Type Fonts) on Microsoft Windows Systems. It displays all fonts imported already to your Windows OS. OTFs (Open Type Fonts) are not visible in the dropdown in Fusion360. But there are converters out in the internet where you can convert OTF to TTF. Not all work fine, but trust me it works.
 
 
 ## Software
-* Autodesk Fusion360
-To create the numbers, letters. The moon and sun and all the other stuff.
+* Autodesk Fusion360\
+To create the numbers, letters. The moon and sun and all the other stuff.\
 [AutoDesk Fusion360 (free for hobbyists) ](https://www.autodesk.de/campaigns/fusion-360-for-hobbyists "Register for free account")
-* Ultimaker Cura Version 4.5
+* Ultimaker Cura Version 4.5\
 [Ultimaker Cura (GNU Lesser General Public License v3.0) ](https://ultimaker.com/software/ultimaker-cura "Ultimaker Cura")
-* Font Hill House
-This project uses the great font [Hill House](https://hicksdesign.co.uk/goodies "HICKS Design") .
+* Font Hill House\
+This project uses the great font [Hill House](https://hicksdesign.co.uk/goodies "HICKS Design").\
 According to the author: *it is free to use in every way, including embedding on websites with @font-face"*
 
 ## Hardware
-* Protective Gear
+* Protective Gear\
 FFP3 mask, Gloves, Glasses
 * 3D Printer
 Creality Ender-3 Pro
-* Wood stain
+* Wood stain\
 Used a dark brownish environmental friendly wood stain from a hardware store
-* Wood lacquer
+* Wood lacquer\
 Used chalk paint, color "Pearl". It turned out more white than "pearl".
 * Grinding machine
-* Filament
-Sunlu Filament 1.75mm PLA, transparent red
+* Filament\
+Sunlu Filament 1.75mm PLA, transparent red\
 Sunlu Filament 1.75mm PLA+, black
 * Wood disc (Radius 77cm)
 * Tension belt
@@ -133,18 +134,18 @@ Sunlu Filament 1.75mm PLA+, black
 * Adhesive tape
 * Glue
 We just use standard liquid glue, nothing special. Transparent. See "[Lessons learned](#lessons-learned)" for more info
-* Pliers
+* Pliers\
 Can be very helpful, when it comes down to glue the elements down and arrange them
-* Resin/Hardener
+* Resin/Hardener\
 Nothing special but a lot since the table is big.
-* Glitter  
+* Glitter\
 Used: Glitter powder silver and blue
 
 
 ## Instructions
-A word about "instructions" it is up to you and this is the way this project was done.
-Again, be creative and think, thinking is sexy so put your mind to the stars.
-Read the "Lessons Learned" section again!
+A word about "instructions" it is up to you and this is the way this project was done.\
+Again, be creative and think, thinking is sexy so put your mind to the stars.\
+Read the "Lessons Learned" section again!\
 
 | Steps | Description|
 | -------------|-------------|
