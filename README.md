@@ -10,6 +10,7 @@
   * [Software](#software)
   * [Hardware](#hardware)
   * [Instructions](#instructions)
+  * [Closing time](#closing-time)
 
 ---
 
