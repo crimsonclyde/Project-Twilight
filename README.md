@@ -109,7 +109,7 @@ To create the numbers, letters. The moon and sun and all the other stuff.
 * Ultimaker Cura Version 4.5
 [Ultimaker Cura (GNU Lesser General Public License v3.0) ](https://ultimaker.com/software/ultimaker-cura "Ultimaker Cura")
 * Font Hill House
-This project uses the great font [Hill House](https://hicksdesign.co.uk/goodies "HICKS Design").
+This project uses the great font [Hill House](https://hicksdesign.co.uk/goodies "HICKS Design") .
 According to the author: *it is free to use in every way, including embedding on websites with @font-face"*
 
 ## Hardware
@@ -125,7 +125,7 @@ Used chalk paint, color "Pearl". It turned out more white than "pearl".
 * Filament
 Sunlu Filament 1.75mm PLA, transparent red
 Sunlu Filament 1.75mm PLA+, black
-* Wooden disc (Radius 77cm)
+* Wood disc (Radius 77cm)
 * Tension belt
 * Set square
 * Lead pencil
@@ -137,7 +137,7 @@ We just use standard liquid glue, nothing special. Transparent. See "[Lessons le
 Can be very helpful, when it comes down to glue the elements down and arrange them
 * Resin/Hardener
 Nothing special but a lot since the table is big.
-* Glitter
+* Glitter  
 Used: Glitter powder silver and blue
 
 
