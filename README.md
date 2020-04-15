@@ -15,7 +15,7 @@
 ---
 
 ## Exordium
-An [Ouija Board](https://en.wikipedia.org/wiki/Ouija "Wikipedia Ouija") is a connection to ghosts, to lost loved and, of course to the ancient great old once. The board has the alphabet and numbers written on it as well as yes, no and goodbye.
+An [Ouija Board](https://en.wikipedia.org/wiki/Ouija "Wikipedia Ouija") is a connection to ghosts, to lost loved and of course, to the ancient great old once. The board has the alphabet and numbers written on it as well as yes, no and goodbye.
 Sometimes hello, too.
 With the use of a planchette you are maybe able to get in touch with those spirits. This event is called a sêance. The board acts as a medium that lets you get a glimpse behind the curtain.
 The twilight zone! If the ghosts are pleased, contact is established and you can ask questions.
@@ -26,21 +26,19 @@ The project started like many projects. You start thinking to repair an old tabl
 
 ![alt text](./github-pix/Twilight_casted.jpg "Project:Twilight")
 
-There are fantastic other ways to create an Ouija Board. A fantastic one and more or less a starter for this project is [Ouija Coffee Table](https://www.instructables.com/id/Ouija-Coffee-Table/ "Instructables: Ouija Coffee Table"). This idea is fantastic and I recommend you to check this out, too.
+There are fantastic other ways to create an Ouija Board. A fantastic one and more or less a starter for this project is [Ouija Coffee Table](https://www.instructables.com/id/Ouija-Coffee-Table/ "Instructables: Ouija Coffee Table"). This idea is fantastic and we recommend you to check it out, too.
 
 Free your mind and let the creativity flow. There are plenty of ways out there to improve this project or do it different.
-One important point is, this project includes 3D print cause the board should have a more 3D effect. I provide all STL files. You can print 'em on your own 3D printer or you can ask someone with one. Another way could be to use a cutting plotter but the nice 3D effect is lost.
+One important point is, this project includes 3D print, cause the board should have a 3Dish effect. We provide all STL files. You can print 'em on your own 3D printer or you can ask someone with one. Another way could be to use a cutting plotter but the nice 3D effect is lost.
 Hope is lost? No! Explore and learn, do something new. Even if it is currently in the twilight.
-
-
 
 
 ## Twilight?
 According to Wikipedia: [Twilight](https://en.wikipedia.org/wiki/twilight "Wikipedia Twilight") *on Earth is the illumination of the lower atmosphere when the Sun itself is not directly visible because it is below the horizon. Twilight is produced by sunlight scattering in the upper atmosphere, illuminating the lower atmosphere so that Earth's surface is neither completely lit nor completely dark.*
-Furthermore, every project need a name thus Project Ouija Board is somehow lame the decision was made to call it Project:Twilight.
+Furthermore, every project need a name and while "Project Ouija Board" sounds somehow lame, decision was made to call it Project:Twilight.
 How are we to judge decisions, eh?
 
-Come, join the journey and enter the twilight zone!
+Come, join us through our journey and enter the twilight zone!
 
 ## Signs
 
