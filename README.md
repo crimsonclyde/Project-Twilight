@@ -104,24 +104,42 @@ Fusion360 can handle *only* TTFs (True Type Fonts) on Microsoft Windows Systems.
 
 ## Software
 * Autodesk Fusion360
+To create the numbers, letters. The moon and sun and all the other stuff.
+[AutoDesk Fusion360 (free for hobbyists) ](https://www.autodesk.de/campaigns/fusion-360-for-hobbyists "Register for free account")
 * Ultimaker Cura Version 4.5
+[Ultimaker Cura (GNU Lesser General Public License v3.0) ](https://ultimaker.com/software/ultimaker-cura "Ultimaker Cura")
 * Font Hill House
 This project uses the great font [Hill House](https://hicksdesign.co.uk/goodies "HICKS Design").
 According to the author: *it is free to use in every way, including embedding on websites with @font-face"*
 
 ## Hardware
-
 * Protective Gear
 FFP3 mask, Gloves, Glasses
-* 3D Printer Creality Ender-3 Pro
+* 3D Printer
+Creality Ender-3 Pro
 * Wood stain
 Used a dark brownish environmental friendly wood stain from a hardware store
 * Wood lacquer
 Used chalk paint, color "Pearl". It turned out more white than "pearl".
 * Grinding machine
 * Filament
-* Filament: Sunlu PLA transparent red
-* Filament: Sunlu PLA+ black
+Sunlu Filament 1.75mm PLA, transparent red
+Sunlu Filament 1.75mm PLA+, black
+* Wooden disc (Radius 77cm)
+* Tension belt
+* Set square
+* Lead pencil
+* Rubber
+* Adhesive tape
+* Glue
+We just use standard liquid glue, nothing special. Transparent. See "[Lessons learned](#lessons-learned)" for more info
+* Pliers
+Can be very helpful, when it comes down to glue the elements down and arrange them
+* Resin/Hardener
+Nothing special but a lot since the table is big.
+* Glitter
+Used: Glitter powder silver and blue
+
 
 ## Instructions
 A word about "instructions" it is up to you and this is the way this project was done.
@@ -131,7 +149,7 @@ Read the "Lessons Learned" section again!
 | Steps | Description|
 | -------------|-------------|
 | `Wood` | Get yourself some wood, think about size and if you want a disk shape or more square style, it is completely up to you |
-| `Wood stain` | Just by some wood stain and apply it to the wood. Since we wanted to secure the wood and have a shabby chick look in the end we applied it to both sides of the wood.  |
+| `Wood stain` | Just by some wood stain and apply it to the wood. Since we wanted to secure the wood and have a shabby chick look in the end we applied it to both sides of the wood.  ![alt text](./github-pix/Twilight_wood-stain.jpg "Project:Twilight-Wood Stain")  |
 | `Prepare for painting` | We need to get rid of some layers of the stain. Just to be sure that the next paint lasts on the surface. Just remove with a grinding machine as much that the brown is not entirely gone. Yes, only on the side the Ouija Board should be builded. |
 | `Paint Job` | Use the paint and let it dry completely before you proceed. |
 | `Shabby Chick` | Use grinding paper to create a used, shabby look. |
