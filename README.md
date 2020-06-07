@@ -171,16 +171,16 @@ Read the "Lessons Learned" section again!\
 ## Closing time
 Thank you for your time - DIY or DIE! Stay safe and keep being creative!
 
-...
-Closing time - Time for you to go out go out into the world.
-Closing time - Turn the lights up over every boy and every girl.
-Closing time - One last call for alcohol so finish your whiskey or beer.
-Closing time - You don't have to go home but you can't stay here.
-...
+...<br/>
+Closing time - Time for you to go out go out into the world.<br/>
+Closing time - Turn the lights up over every boy and every girl.<br/>
+Closing time - One last call for alcohol so finish your whiskey or beer.<br/>
+Closing time - You don't have to go home but you can't stay here.<br/>
+...<br/>
 Semisonic - Closing Time
 
 ## Thx
-Without the help of friends this project wouldn't be possible so this goes out to every one of my friends but especially to MaryGold :heart: and the one and only magnificent Moondust :full_moon:.
+Without the help of friends this project wouldn't be possible so this goes out to every one of my friends but especially to MaryGold :heart: and the one and only magnificent Moondust :full_moon:.<br/>
 You are awesome and I am blessed to know you.
 
 
