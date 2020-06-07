@@ -169,7 +169,7 @@ Read the "Lessons Learned" section again!\
 | `Bubble Busters`<br/>Oh yes, that's your major job. Getting rid of bubbles and other problematic zones. A multi tool was used to cut out these zones and the bubbles. No need to polish, just remove the dust and fill it up again with a little bit of resin. Make sure that the resin fills up the bottom of your drilled holes. Toothbick is one option. <br/><br/> ![alt text](./github-pix/Twilight_ResinRepair_01.jpg "Project:Twilight-ResinRepair")  | |
 
 ## Closing time
-Thank you for your time - DIY or DIE! Stay safe and keep being creative!
+Thank you for your time. Stay safe and keep being creative!
 
 ...<br/>
 Closing time - Time for you to go out go out into the world.<br/>
