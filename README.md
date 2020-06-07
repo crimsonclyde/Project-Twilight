@@ -164,11 +164,24 @@ Read the "Lessons Learned" section again!\
 | `Cast*ing Level Two`<br/> Same process like in "Level One". We did it right after the hardening process starts so the surface is slightly liquid but starts to get gelly. Not sure maybe you can do this after the first level hardened completely. But what we want is that there is no visibility between "Level One" and "Level Two". |
 | `Bubble Busters`<br/> Do the same like it is described before!   |
 | `Drying`<br/> Let the resin dry. Two days or more. Keep it in a dry, warm environment. After that remove the overflow protection. <br/><br/> ![alt text](./github-pix/Twilight_casted.jpg "Project:Twilight")  |
-| `Post Process`<br/> We learned a lot while dealing with this project but everytime you do something new a new challenge will rise. We had some bubble enclosures. And the boarder is due to the tape not even. This process is not finished. But the idea is to grind out the bubbles and mix a small portion of resin and fill up the holes with it. We need to do some tests before. The border is just grinding.<br/>This will be updated as soon as we have a result.<br/><br/> ![alt text](./github-pix/Twilight_BubbleEnclosure.jpg "Project:Twilight-Bubble enclosures") | |
-
-
+| `Post Process`<br/> We learned a lot while dealing with this project but everytime you do something new a new challenge will rise. We had some bubble enclosures. And the boarder is due to the tape not even. This process is not finished. But the idea is to grind out the bubbles and mix a small portion of resin and fill up the holes with it. We need to do some tests before. The border is just grinding.<br/>This will be updated as soon as we have a result.<br/><br/> ![alt text](./github-pix/Twilight_BubbleEnclosure.jpg "Project:Twilight-Bubble enclosures") |
+| `Cutting Edge`<br/> We need to get perfect circle and we need to get rid of the resin edge. If you are using a proper tape maybe you have already a nice finish. For us this was a really big dissapointment so we decided to use a milling cutter. One of my friends is perfect in creating tools. So he created a tool that is centered to the middle of the Ouija Board and with the cutter we were able to have a perfect and round table. <br/><br/> ![alt text](./github-pix/Twilight_Mill_01.jpg "Project:Twilight-Cutting-Edge") ![alt text](./github-pix/Twilight_Mill_02.jpg "Project:Twilight-Cutting-Edge") ![alt text](./github-pix/Twilight_Mill_03.jpg "Project:Twilight-Cutting-Edge") |
+| `Bubble Busters`<br/>Oh yes, that's your major job. Getting rid of bubbles and other problematic zones. A multi tool was used to cut out these zones and the bubbles. No need to polish, just remove the dust and fill it up again with a little bit of resin. Make sure that the resin fills up the bottom of your drilled holes. Toothbick is one option. <br/><br/> ![alt text](./github-pix/Twilight_ResinRepair_01.jpg "Project:Twilight-ResinRepair")  | |
 
 ## Closing time
-Thanks for reading and your time. Stay safe and keep being creative!
+Thank you for your time - DIY or DIE! Stay safe and keep being creative!
 
-**DIY or DIE** - MissMaryGold & CrimsonClyde
+...
+Closing time - Time for you to go out go out into the world.
+Closing time - Turn the lights up over every boy and every girl.
+Closing time - One last call for alcohol so finish your whiskey or beer.
+Closing time - You don't have to go home but you can't stay here.
+...
+Semisonic - Closing Time
+
+## Thx
+Without the help of friends this project wouldn't be possible so this goes out to every one of my friends but especially to MaryGold :heart: and the one and only magnificent Moondust :full_moon:.
+You are awesome and I am blessed to know you.
+
+
+**DIY or DIE** - MissMaryGold & Moondust & CrimsonClyde
